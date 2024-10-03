@@ -25,12 +25,12 @@ Este desafio foi criado para eu melhorar os usos dos (usecontext,useState,useEff
 ## Como Usar
 
 1. Abra o prompt de comando e escolha pasta que você quer adicionar o arquivo:
-   **cd "caminho do local da pasta"**
+   `cd "caminho do local da pasta"`
 
-1. Clone o repositório:
-   git clone https://github.com/DavidMarinho2203/API-REST-Countries-com-alternador-de-tema-de-cores
+2. Clone o repositório:
+   `git clone https://github.com/DavidMarinho2203/API-REST-Countries-com-alternador-de-tema-de-cores`
 
-1. Abra o arquivo `index.html` no seu navegador ou utilize uma extensão do VS Code como "Live Server" para ver o projeto em execução.
+3. Abra a pasta do repositório baixada em um prompt de comando e digite `npm run dev`
 
 ## Contato
 
