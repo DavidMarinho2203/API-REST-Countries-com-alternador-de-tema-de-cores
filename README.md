@@ -6,7 +6,7 @@ Este repositório contém uma projeto que foi inspirado em um dos exercícios do
 
 ### API REST de países
 
-![API REST de países](/assets/img/screenshot.png)
+![API REST de países](/public/assets/img/screenshot.png)
 
 Este desafio foi criado para eu melhorar os usos dos (usecontext,useState,useEffect) em React, uso do TypeScript e o uso do Tailwindcss.
 
